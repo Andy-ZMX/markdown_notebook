@@ -1,6 +1,6 @@
-* 开始
+* 首页
     * [简介](README.md)
+* 开始
+* [JavaScript](/javascript/README.md "The greatest JavaScript note in the world")
+* [Oracle](/oracle/README.md "The greatest Oracle note in the world")
 
-* JavaScript
-    * [基础1](/javascript/1.md)
-    * [基础2](/javascript/2.md)
