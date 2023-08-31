@@ -15,3 +15,7 @@
 > Vercel：https://vercel.com/
 
 > 菜鸟教程：https://www.runoob.com/
+
+> PL/SQL：http://www.manongjc.com/oracle/pl-sql-tutorial.html
+
+> Element Plus：https://element-plus.gitee.io/zh-CN/
